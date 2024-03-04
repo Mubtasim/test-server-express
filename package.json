@@ -2,9 +2,8 @@
   "name": "test-server-express",
   "version": "1.0.0",
   "description": "A test server built with express",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
-    "start": "npx json-server db.json",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
